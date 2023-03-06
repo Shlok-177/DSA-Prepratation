@@ -1,0 +1,1 @@
+// Write a function that takes in an array of integers and returns the median of that array.
