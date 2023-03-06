@@ -7,7 +7,7 @@ This is an online repository for Data Structures and Algorithms (DSA) questions.
 1. Clone this repository to your local machine using the following command:
 
 ```
-https://github.com/Shlok-177/DSA-Prepratation.git
+git clone https://github.com/Shlok-177/DSA-Prepratation.git
 ```
 
 2. Inside the repository, you will find the questions directory which contains the
