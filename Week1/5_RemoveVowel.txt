@@ -1,1 +1,0 @@
-// Write a function that takes in a string and removes all the vowels from it.

@@ -1,5 +1,0 @@
-//1:-  Count that how many times particalar number is accur in whoke number
-for example : count 3 in 2356623 then output is: 2
-
-//2:- Reverse the number and store that number in one variable
-

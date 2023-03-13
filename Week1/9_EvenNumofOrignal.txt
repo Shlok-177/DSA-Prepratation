@@ -1,2 +1,0 @@
-// Write a function that takes in an array of integers and returns a new array with all the even numbers from the original array.
-

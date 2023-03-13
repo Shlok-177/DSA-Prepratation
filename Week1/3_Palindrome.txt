@@ -1,5 +1,0 @@
-// Write a code for wether a number is Palindrome or not.
-// for example:- 12321 this number is Palindrom
-
-// Write a function that takes in a string and checks if it is a palindrome (reads the same forwards and backwards).
-// for example:- ABCba is a Palindrom String
