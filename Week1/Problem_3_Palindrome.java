@@ -15,7 +15,7 @@ public class Problem_3_Palindrome {
 
     for (int i = 0; i < str.length(); i++) {
         char ch = str.charAt(i);
-        reverse = reverse + ch;
+        reverse = ch + reverse ;
     }
     if(str.toLowerCase().equals(reverse.toLowerCase())) System.out.println(str + " is Palindrom String");
     else System.out.println(str + " is not Palindrom String");
